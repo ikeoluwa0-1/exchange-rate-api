@@ -1,2 +1,2 @@
 # exchange-rate-api
-API that gives the exchange rate of bitcoin with regards to time
+The API gives an exchange rate of bitcoin(BTC)to dollars(USD) with regards to time.
